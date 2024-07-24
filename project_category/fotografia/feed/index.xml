@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fotografía | GFranzella</title>
+	<atom:link href="/project_category/fotografia/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Servicios de Páginas Web</description>
+	<lastBuildDate>Mon, 07 Dec 2020 10:26:40 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/01/cropped-Captura-de-pantalla-2021-01-20-a-las-19.51.11-32x32.png</url>
+	<title>Fotografía | GFranzella</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Fotografía Rivas Lampe</title>
+		<link>/project/fotografia-rivas-lampe/</link>
+					<comments>/project/fotografia-rivas-lampe/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 07 Dec 2020 10:26:38 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=project#038;p=101</guid>
+
+					<description><![CDATA[Una de las mejores fotógrafas Venezolanas de Madrid, tienes que conocerla. Visita su página.]]></description>
+										<content:encoded><![CDATA[
+<p>Una de las mejores fotógrafas Venezolanas de Madrid, tienes que conocerla. Visita su página.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/project/fotografia-rivas-lampe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
