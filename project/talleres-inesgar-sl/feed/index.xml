@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Talleres Inesgar SL	</title>
-	<atom:link href="/project/talleres-inesgar-sl/feed/" rel="self" type="application/rss+xml" />
-	<link>/project/talleres-inesgar-sl/</link>
+	<atom:link href="https://gfranzella.github.io/wp-static-site/project/talleres-inesgar-sl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gfranzella.github.io/wp-static-site/project/talleres-inesgar-sl/</link>
 	<description>Servicios de Páginas Web</description>
 	<lastBuildDate>Mon, 07 Dec 2020 10:27:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
